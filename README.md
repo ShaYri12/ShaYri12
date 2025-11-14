@@ -1,12 +1,9 @@
-<p align="center">
-  <img src="https://img.freepik.com/free-photo/programming-background-collage_23-2149901782.jpg" alt="Sharjeel - Full Stack Developer" width="100%" height="auto">
-</p>
-
 <h1 align="center">Hi 👋, I'm Sharjeel</h1>
 <h3 align="center">A passionate Full Stack Web Developer crafting dynamic and scalable applications</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shayri12&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/shayri12?style=flat&logo=github" alt="Followers" />
 </p>
 
 - 🌱 I’m currently learning **React Native** to build cross-platform mobile apps
@@ -18,6 +15,27 @@
   <a href="mailto:sharjeelb60@gmail.com"><img src="https://img.shields.io/badge/Email-sharjeelb60%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email"></a>
   <a href="https://sharjeel-portfolio-one.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-blue?style=for-the-badge&logo=vercel" alt="Portfolio"></a>
 </p>
+
+<h3 align="center">Pinned Projects</h3>
+<p align="center">Here are some of my highlighted repositories:</p>
+
+- **[Missing-Activists](https://github.com/ShaYri12/Missing-Activists)** (TypeScript, 1 ⭐)  
+  Missing Activist is a web application designed to facilitate the reporting and management of missing persons information. This platform empowers users to easily add, update, and delete records of individuals.
+
+- **[TopExpert](https://github.com/ShaYri12/TopExpert)** (TypeScript)  
+  Turn your passion and knowledge into a thriving business. Get personalized advice from top experts to your specific questions. Find the right expert in your field in minutes.
+
+- **[Watzpaad](https://github.com/ShaYri12/Watzpaad)** (JavaScript)  
+  Access exclusive and promising crypto startups. Block boost is your gateway to early-stage investment opportunities, vetted by the team.
+
+- **[HealthFare](https://github.com/ShaYri12/HealthFare)** (JavaScript, 1 ⭐)  
+  Healthfare is a comprehensive health and wellness platform designed to provide users with accessible, reliable information and resources for a healthier lifestyle.
+
+- **[Credit-SaaS-DIY](https://github.com/ShaYri12/Credit-SaaS-DIY)** (JavaScript)  
+  Take control of your credit with fast and effective solutions. Our SaaS platform makes it easy to manage business operations with comprehensive reporting and analytics.
+
+- **[orbiz](https://github.com/ShaYri12/orbiz)** (JavaScript)  
+  Simplifying payment for growing businesses. Easily manage your invoice with Orbiz. Get paid faster with Orbiz invoicing tool and save time on supplier invoice management.
 
 <h3 align="center">Languages & Tools</h3>
 
@@ -63,7 +81,7 @@
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 </p>
 
-<h3 align="center">GitHub Stats</h3>
+<h3 align="center">GitHub Stats & Achievements</h3>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shayri12&show_icons=true&locale=en&theme=radical" alt="shayri12" width="45%" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shayri12&theme=radical" alt="shayri12" width="45%" />
@@ -71,4 +89,9 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shayri12&show_icons=true&locale=en&layout=compact&theme=radical" alt="shayri12" width="45%" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=shayri12&theme=radical&no-frame=true" alt="shayri12 trophies" width="45%" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://ghchart.rshah.org/shayri12" alt="shayri12 contribution graph" />
 </p>
