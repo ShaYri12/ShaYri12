@@ -35,9 +35,6 @@
   <a href="https://sharjeel-portfolio-one.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-blue?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
-  <a href="https://linkedin.com/in/sharjeel">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
@@ -109,9 +106,6 @@
   <img src="https://raw.githubusercontent.com/shayri12/shayri12/output/snake.svg" alt="Snake animation" />
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
