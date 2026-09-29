@@ -44,7 +44,8 @@
 
 ### 🎨 Frontend & Mobile Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,reactnative,nextjs,tailwind,bootstrap,sass" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass" />
+  <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="48" height="48"/>
 </p>
 
 ### ⚙️ Backend Development
@@ -67,7 +68,7 @@
 ### 🔧 Tools & Testing
 <p>
   <img src="https://skillicons.dev/icons?i=git,jest,postman,photoshop,figma" />
-  <img src="https://cdn.simpleicons.org/pest/5B67B7" alt="Pest" width="48" height="48"/>
+  <img src="https://raw.githubusercontent.com/pestphp/art/master/v5/social.png" alt="Pest PHP" width="48" height="48"/>
 </p>
 
 </div>
