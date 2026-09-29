@@ -42,14 +42,14 @@
 
 <div align="center">
 
-### 🎨 Frontend Development
+### 🎨 Frontend & Mobile Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,reactnative,nextjs,tailwind,bootstrap,sass" />
 </p>
 
 ### ⚙️ Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,java,python" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,java,python" />
 </p>
 
 ### 🗄️ Databases & Cloud
@@ -67,6 +67,7 @@
 ### 🔧 Tools & Testing
 <p>
   <img src="https://skillicons.dev/icons?i=git,jest,postman,photoshop" />
+  <img src="https://img.shields.io/badge/Pest-1A202C?style=for-the-badge&logo=pest&logoColor=5B67B7" alt="Pest PHP" />
 </p>
 
 </div>
