@@ -66,8 +66,8 @@
 
 ### 🔧 Tools & Testing
 <p>
-  <img src="https://skillicons.dev/icons?i=git,jest,postman,photoshop" />
-  <img src="https://img.shields.io/badge/Pest-1A202C?style=for-the-badge&logo=pest&logoColor=5B67B7" alt="Pest PHP" />
+  <img src="https://skillicons.dev/icons?i=git,jest,postman,photoshop,figma" />
+  <img src="https://cdn.simpleicons.org/pest/5B67B7" alt="Pest" width="48" height="48"/>
 </p>
 
 </div>
