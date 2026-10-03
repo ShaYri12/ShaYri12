@@ -19,7 +19,7 @@
 - 🔭 I'm currently working on **Full Stack Web Applications**
 - 🌱 I'm currently learning **React Native** to build cross-platform mobile apps
 - 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **React, Node.js, MongoDB, and Web Development**
+- 💬 Ask me about **Next, React, Node.js, MongoDB, SQL and Web Development**
 - 📫 How to reach me: **sharjeelb60@gmail.com**
 - ⚡ Fun fact: **I love turning coffee into code!** ☕
 
